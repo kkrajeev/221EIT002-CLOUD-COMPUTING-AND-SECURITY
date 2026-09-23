@@ -7,17 +7,20 @@ KTU M.Tech Program Elective. This repository holds the two CIE written/presentat
 | Review article (literature survey) | 15 | [literature-survey/](literature-survey/) |
 | Seminar | 15 | [seminars/](seminars/) |
 
-Course code: **221EIT002**. Primary seminar outcome: **CO4** (analyse cloud security issues and apply controls). Review article also supports **PO1** and **PO2**.
+Course code: **221EIT002**. Primary seminar outcome: **CO4**. Review article also supports **PO1** and **PO2**.
 
 ---
 
 ## General instructions (read this first)
 
 1. Pick **one literature-survey topic** and **one seminar topic**. They may be related, but they are graded separately.
-2. Claim a topic by adding your name in the signup table of that folder. First name on a topic keeps it.
-3. Do not copy another student's core slides or paper list.
-4. Cite textbooks and peer-reviewed sources. Blogs are only context.
-5. Use the common **e-healthcare cloud** example in the seminar so the nine talks form one story.
+2. Claim topics on the signup issues (do not edit this README):
+   - Seminar: [Issue #1](https://github.com/kkrajeev/mtech-cloud-computing-review-topics/issues/1)
+   - Literature survey: [Issue #2](https://github.com/kkrajeev/mtech-cloud-computing-review-topics/issues/2)
+3. First valid comment on a free topic keeps it.
+4. Do not copy another student's core slides or paper list.
+5. Cite textbooks and peer-reviewed sources. Blogs are only context.
+6. Use the common **e-healthcare cloud** example in the seminar so the nine talks form one story.
 
 **Textbooks for security seminars**
 
@@ -67,4 +70,18 @@ Common rules, slide budget, and rubric: [seminars/README.md](seminars/README.md)
 
 ## Signup
 
-Edit the table in each folder README after you choose. Do not take a topic that already has a name.
+Do not edit the markdown tables yourself.
+
+| Task | Open this issue and comment |
+|---|---|
+| Seminar (S1-S9) | https://github.com/kkrajeev/mtech-cloud-computing-review-topics/issues/1 |
+| Literature survey (L1-L10) | https://github.com/kkrajeev/mtech-cloud-computing-review-topics/issues/2 |
+
+Comment template:
+
+```
+Topic number: S3
+Name:
+Roll no:
+Preferred date (optional):
+```
