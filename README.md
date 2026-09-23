@@ -17,8 +17,8 @@ This repository is the course workspace for the subject. Use it to pick CIE work
 
 | CIE item | Marks | Topics | Claim here |
 |---|---|---|---|
-| Seminar | 15 | [Open seminar list](seminars/) | [Issue #1](https://github.com/kkrajeev/mtech-cloud-computing-review-topics/issues/1) |
-| Literature survey | 15 | [Open survey list](literature-survey/) | [Issue #2](https://github.com/kkrajeev/mtech-cloud-computing-review-topics/issues/2) |
+| Seminar | 15 | [Open seminar list](seminars/) | [Issue #1](https://github.com/kkrajeev/221EIT002-CLOUD-COMPUTING-AND-SECURITY/issues/1) |
+| Literature survey | 15 | [Open survey list](literature-survey/) | [Issue #2](https://github.com/kkrajeev/221EIT002-CLOUD-COMPUTING-AND-SECURITY/issues/2) |
 
 Signup comment:
 
