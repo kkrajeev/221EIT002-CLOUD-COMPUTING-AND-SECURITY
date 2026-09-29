@@ -8,7 +8,8 @@ Each literature-survey student lists **at least 10** peer-reviewed papers:
 - authors
 - year
 - venue (journal or conference)
-- DOI or publisher URL
+
+DOI or URL is **not** required.
 
 Prefer 2022–2026. Surveys may be used to map the field; the review must rest on primary studies.
 
