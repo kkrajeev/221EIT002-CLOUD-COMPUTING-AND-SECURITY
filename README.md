@@ -4,6 +4,8 @@
 
 This repository is the course workspace. Lecture notes and exams stay with the college LMS.
 
+**Syllabus:** [syllabus.md](syllabus.md) — modules, CIE/ESE pattern, and reference books.
+
 ---
 
 ## Allocations
