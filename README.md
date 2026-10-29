@@ -8,9 +8,25 @@ This repository is the course workspace. Lecture notes and exams stay with the c
 
 ---
 
-## Allocations
+## Seminar dates
 
-Topics are locked. Full table: [allocations.md](allocations.md)
+| Date | Code | Student | Topic |
+|---|---|---|---|
+| 3 Nov 2026 | S1 | Anagha P V | [Challenges](seminars/01-cloud-security-challenges.md) |
+| 3 Nov 2026 | S2 | Rajeena V M | [SaaS + governance](seminars/02-saas-governance.md) |
+| 4 Nov 2026 | S3 | Chithra C | [Risk + SecSDLC](seminars/03-risk-secsclc.md) |
+| 4 Nov 2026 | S4 | Dilshana Sherin B | [Monitoring](seminars/04-monitoring.md) |
+| 5 Nov 2026 | S5 | Musniya Fidha U | [Architecture / data / app](seminars/05-architecture-data-app.md) |
+| 5 Nov 2026 | S6 | Deepika K | [VM security](seminars/06-vm-security.md) |
+| 10 Nov 2026 | S7 | Abdul Rashad A C | [Trusted cloud](seminars/07-trusted-cloud.md) |
+| 10 Nov 2026 | S8 | Anju Kurian | [IAM](seminars/08-iam.md) |
+| 11 Nov 2026 | S9 | Gopika Gireesh NG | [Autonomic + WAF](seminars/09-autonomic-waf.md) |
+
+Full table: [allocations.md](allocations.md)
+
+---
+
+## Allocations
 
 | Roll | Student | Seminar | Survey |
 |---|---|---|---|
