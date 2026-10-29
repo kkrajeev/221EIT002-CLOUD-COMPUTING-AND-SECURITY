@@ -2,21 +2,31 @@
 
 Locked from signup comments on 24 Sep 2026. First valid comment kept the topic.
 
+## Seminar schedule
+
+| Date | Seminars |
+|---|---|
+| 3 Nov 2026 | S1, S2 |
+| 4 Nov 2026 | S3, S4 |
+| 5 Nov 2026 | S5, S6 |
+| 10 Nov 2026 | S7, S8 |
+| 11 Nov 2026 | S9 |
+
 ## Seminars (S1–S9)
 
 Present in this order.
 
-| Code | Topic | Student | Roll |
-|---|---|---|---|
-| S1 | Cloud security landscape and challenges | Anagha P V | 6 |
-| S2 | SaaS security and security governance | Rajeena V M | 17 |
-| S3 | Risk management and SecSDLC | Chithra C | 10 |
-| S4 | Security monitoring, logging, and incident response | Dilshana Sherin B | 12 |
-| S5 | Security architecture: data and application security | Musniya Fidha U | 16 |
-| S6 | Virtual machine and hypervisor security | Deepika K | 11 |
-| S7 | Trusted cloud computing | Abdul Rashad A C | 1 |
-| S8 | Identity, access management, and access control | Anju Kurian | 8 |
-| S9 | Autonomic security, firewalls, and WAF | Gopika Gireesh NG | 13 |
+| Code | Topic | Student | Roll | Date |
+|---|---|---|---|---|
+| S1 | Cloud security landscape and challenges | Anagha P V | 6 | 3 Nov 2026 |
+| S2 | SaaS security and security governance | Rajeena V M | 17 | 3 Nov 2026 |
+| S3 | Risk management and SecSDLC | Chithra C | 10 | 4 Nov 2026 |
+| S4 | Security monitoring, logging, and incident response | Dilshana Sherin B | 12 | 4 Nov 2026 |
+| S5 | Security architecture: data and application security | Musniya Fidha U | 16 | 5 Nov 2026 |
+| S6 | Virtual machine and hypervisor security | Deepika K | 11 | 5 Nov 2026 |
+| S7 | Trusted cloud computing | Abdul Rashad A C | 1 | 10 Nov 2026 |
+| S8 | Identity, access management, and access control | Anju Kurian | 8 | 10 Nov 2026 |
+| S9 | Autonomic security, firewalls, and WAF | Gopika Gireesh NG | 13 | 11 Nov 2026 |
 
 ## Literature survey (L1–L10)
 
